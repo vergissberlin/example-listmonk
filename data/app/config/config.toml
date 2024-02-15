@@ -1,7 +1,7 @@
 [app]
 address = "0.0.0.0:9000"
 
-admin_username = "regenfass"
+admin_username = "listmonk"
 admin_password = "kute6uxieFia"
 
 # Database.
