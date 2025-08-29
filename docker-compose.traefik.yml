@@ -2,7 +2,7 @@ version: '3.7'
 
 services:
   db:
-    image: postgres:13-alpine
+    image: postgres:17-alpine
     container_name: ${COMPOSE_PROJECT_NAME}-db
     networks:
       - default
